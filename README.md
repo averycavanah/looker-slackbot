@@ -29,7 +29,7 @@ Detailed information on how to interact with Lookerbot [can be found on Looker D
 2. Choose "Add Configuration"
 3. Create a username for your Slack bot. We use **@looker** but it's up to you.
 4. Choose an icon for the Slack bot. [Here's the icon we use](looker-bot-icon-512.png).
-5. Grab the API token from the settings page, you'll need this when you set up the bot server.
+5. Grab the Bot token from the settings page, you'll need this when you set up the bot server.
 
 #### Heroku Deployment
 
